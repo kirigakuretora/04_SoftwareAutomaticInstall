@@ -1,0 +1,2 @@
+OzCode_2.0.0.1029.exe /S
+OzCode_2.0.0.1029.exe /D=x:\<FolderName>
