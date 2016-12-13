@@ -1,0 +1,6 @@
+[Setup]
+Lang=default
+Dir=C:\Program Files (x86)\XMind
+Group=XMind
+NoIcons=0
+Tasks=desktopicon,quicklaunchicon
