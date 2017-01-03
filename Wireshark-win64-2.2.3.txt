@@ -1,5 +1,0 @@
-Wireshark-win64-2.2.3.exe /NCRC
-Wireshark-win64-2.2.3.exe /S 
-Wireshark-win64-2.2.3.exe /desktopicon=yes
-Wireshark-win64-2.2.3.exe /quicklaunchicon=no
-Wireshark-win64-2.2.3.exe /D=x:\<FolderName>
