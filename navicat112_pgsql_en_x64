@@ -1,0 +1,6 @@
+[Setup]
+Lang=default
+Dir=C:\Program Files\PremiumSoft\Navicat for PostgreSQL
+Group=PremiumSoft\Navicat for PostgreSQL
+NoIcons=0
+Tasks=desktopicon
