@@ -1,4 +1,4 @@
-# AutomaticInstall
+# SoftwareAutomaticInstall 
 收錄工作上使用的開發工具自動化安裝答錄檔及自動化安裝指令檔
 
 ## 分類方式
